@@ -57,7 +57,7 @@ python cli.py --do_predict --output_dir out/${data}_checkpoint \
         --append_another_bos --prefix test_
 ```
 
-embeddings.json file uploaded at: 
+embeddings.json file uploaded at: https://drive.google.com/file/d/1KWiLaLPvEfRSPNQ0JDMA4Rx6uwtWaKsi/view?usp=sharing
 
 Use --predict_file to specify the path to the file to be used for prediction.
 The above command uses the checkpoint out/${data}_checkpoint/best-model.pt .
